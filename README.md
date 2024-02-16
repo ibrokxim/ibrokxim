@@ -1,4 +1,6 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWxobjkyd2c1NDQ4cGFneWZzbXI2ZnNvOHI5Z3YxaWY2NGdrbGpoMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z9K2wt4tLEJDj3jVuq/giphy.gif" width="100"/>
+</div>
 
 <!--
 **ibrokxim/ibrokxim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
