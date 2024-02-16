@@ -1,7 +1,14 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWxobjkyd2c1NDQ4cGFneWZzbXI2ZnNvOHI5Z3YxaWY2NGdrbGpoMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z9K2wt4tLEJDj3jVuq/giphy.gif" width="100"/>
 </div>
-
+<div id="badges">
+  <a href="www.linkedin.com/in/ibrohim-nabijonov-651085230">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/N_Ibrokhim">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
 <!--
 **ibrokxim/ibrokxim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
